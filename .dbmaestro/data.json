@@ -79,6 +79,32 @@
         }
       ],
       "DatabasesStaticDataObjects": null
+    },
+    {
+      "GlobalData": {
+        "ProjectId": "568b1d14-dd77-45c2-aa74-6c938dbbc00c",
+        "ProjectName": "C1B_SANDBOX",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {},
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "PreventCommitObjectWithConflict": false,
+          "UseCache": null
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": ""
+      },
+      "UserData": [
+        {
+          "UserName": "berkeoz",
+          "DatabasesData": []
+        }
+      ],
+      "DatabasesStaticDataObjects": null
     }
   ],
   "GlobalConfigurations": null
